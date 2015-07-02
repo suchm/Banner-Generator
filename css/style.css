@@ -35,7 +35,7 @@
 	h2{
 		display: inline-block;
 		padding: 10px;
-		background-color: #04bc04;
+		background-color: #e96656;
 		color: #fff;
 		font-size: 32px;
 		margin-bottom: 10px;
@@ -43,7 +43,7 @@
 
 	h3{
 		font-size: 28px;
-		color: #04bc04;
+		color: #5c5c5c;
 	}
 
 	.hightlight-box {
@@ -59,7 +59,7 @@
 		text-transform: uppercase;
 		margin: 0px;
 		padding: 10px;
-		background-color: #04bc04;
+		background-color: #5c5c5c;
 		color: #fff;
 		font-size: 18px;
 	}
