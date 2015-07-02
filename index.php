@@ -3,11 +3,11 @@
 	<head>
 		<title>Banner Generatior</title>
 		<meta name="keywords" content="Banner Generator">
-	    <meta name="description" content="Adds text to banners which you can then add to your website">
-	    <link media="all" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C300%2C600&amp;ver=1.0" id="google_fonts-css" rel="stylesheet">
-	    <link rel="stylesheet" href="./css/custom.css" type="text/css" />
-	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	    <script src="./js/custom.js"></script>
+		<meta name="description" content="Adds text to banners which you can then add to your website">
+		<link media="all" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C300%2C600&amp;ver=1.0" id="google_fonts-css" rel="stylesheet">
+		<link rel="stylesheet" href="./css/custom.css" type="text/css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="./js/script.js"></script>
 	</head>
 	<body>
 		<header>
