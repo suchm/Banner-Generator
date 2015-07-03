@@ -115,7 +115,7 @@ class Banner_Generator{
 
 	/**
 	 * Create the banners
-	 * @return header
+	 * @return jpeg
 	 */
 	private function create_banner() {
 

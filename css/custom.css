@@ -208,6 +208,10 @@
 		text-decoration: underline;
 	}
 
+	.informa-logo{
+		text-align: center;
+	}
+
 	.clear{
 		clear: both;
 	}
